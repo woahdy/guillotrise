@@ -1,5 +1,9 @@
 # Guillotrise (Guill)
 
+<p>
+  <img src="assets/guillotrise-logo.svg" alt="Guillotrise blue-heart logo" width="64" height="64">
+</p>
+
 Official public repository for the Guillotrise ERC-20 token on Ethereum Mainnet.
 
 ## Canonical contract
@@ -35,10 +39,14 @@ This repository is being developed as the public verification and transparency c
 
 See [the initial blockchain report](docs/BLOCKCHAIN.md) for the current technical snapshot.
 
+## Etherscan metadata
+
+The proposed blue-heart logo and a copy-ready token-information draft are available in the [Etherscan submission package](docs/ETHERSCAN_SUBMISSION.md). The draft must be reviewed, ownership-verified, and submitted through Etherscan before any metadata update is considered approved.
+
 ## Security
 
 Never publish seed phrases, private keys, wallet recovery information, or signing credentials in this repository. Contract addresses and blockchain transactions are public; wallet credentials are not.
 
 ## Status
 
-Initial blockchain documentation is in progress. Nothing in this repository promises a token price, investment return, exchange listing, or future liquidity.
+Initial blockchain documentation and the Etherscan metadata package are in progress. Nothing in this repository promises a token price, investment return, exchange listing, or future liquidity.

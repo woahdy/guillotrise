@@ -11,7 +11,7 @@ This document is a review checklist and copy-ready draft. It is not proof that E
 - [x] Contract source is verified on Etherscan as an exact match.
 - [x] Token identity and supply are documented from on-chain data.
 - [x] Public GitHub repository is available.
-- [x] Public 32 × 32 SVG logo is available.
+- [x] Public 32 × 32 PNG token icon is available.
 - [ ] Contract-address ownership is claimed in the submitting Etherscan account.
 - [ ] An official project email is selected and publicly associated with the project.
 - [ ] Every link below is opened and checked immediately before submission.
@@ -32,7 +32,7 @@ Etherscan treats a submitted token-information request as final. Do not submit p
 | Network | Ethereum Mainnet |
 | Project website | https://github.com/woahdy/guillotrise |
 | GitHub | https://github.com/woahdy/guillotrise |
-| Logo download URL | https://raw.githubusercontent.com/woahdy/guillotrise/main/assets/guillotrise-logo.svg |
+| Logo download URL | https://raw.githubusercontent.com/woahdy/guillotrise/main/assets/guillotrise-logo-32.png |
 | Official email | **Pending owner selection — do not use a placeholder** |
 | Sector / category | Select only after reviewing the choices shown in the live form |
 | Other social profiles | Leave blank unless an official, active profile is confirmed |

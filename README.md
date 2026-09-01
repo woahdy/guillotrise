@@ -1,10 +1,17 @@
 # Guillotrise (Guill)
 
 <p>
-  <img src="assets/guillotrise-logo.svg" alt="Guillotrise blue-heart logo" width="64" height="64">
+  <img src="assets/guillotrise-logo.png" alt="Official Guillotrise gold-and-black G heart logo" width="160" height="160">
 </p>
 
 Official public repository for the Guillotrise ERC-20 token on Ethereum Mainnet.
+
+## Official brand mark
+
+The gold-and-black `G` with a black heart shown above is the official Guillotrise project logo. The repository includes a high-resolution project image and a 32 x 32 token-profile version:
+
+- [Official logo](assets/guillotrise-logo.png)
+- [32 x 32 token icon](assets/guillotrise-logo-32.png)
 
 ## Canonical contract
 
@@ -41,7 +48,7 @@ See [the initial blockchain report](docs/BLOCKCHAIN.md) for the current technica
 
 ## Etherscan metadata
 
-The proposed blue-heart logo and a copy-ready token-information draft are available in the [Etherscan submission package](docs/ETHERSCAN_SUBMISSION.md). The draft must be reviewed, ownership-verified, and submitted through Etherscan before any metadata update is considered approved.
+The official gold-and-black logo and a copy-ready token-information draft are available in the [Etherscan submission package](docs/ETHERSCAN_SUBMISSION.md). The draft must be reviewed, ownership-verified, and submitted through Etherscan before any metadata update is considered approved.
 
 ## Security
 
